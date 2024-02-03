@@ -1,0 +1,38 @@
+.button__newTask {
+    background-color: teal;
+    color: white;
+    border: none;
+
+}
+
+
+
+.button__newTask:hover {
+    background-color: rgb(1, 93, 93);
+    color: white;
+    border: none;
+
+}
+
+.task__button--remove {
+    background-color: red;
+    border: none;
+    height: 25px;
+}
+
+.task__button--remove:hover {
+    background-color: rgb(167, 0, 0);
+    border: none;
+}
+
+.task__button--done {
+    background-color: #00D26A;
+    border: none;
+    height: 25px;
+}
+
+.task__button--done:hover {
+    background-color: rgb(2, 98, 2);
+    border: none;
+
+}

@@ -1,0 +1,16 @@
+.tasks {
+    padding: 5px;
+}
+
+.task__list {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 10px;
+    align-items: start;
+    padding: 10px;
+    border-bottom: 2px solid #ddd;
+}
+
+.task__list--done {
+    text-decoration: line-through;
+}

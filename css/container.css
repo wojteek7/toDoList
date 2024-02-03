@@ -1,0 +1,17 @@
+.container {
+    background-color: rgb(230, 230, 230);
+    padding: 40px;
+
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-gap: 10px;
+}
+
+@media (max-width: 767px) {
+    .form {
+        grid-template-columns: 1fr;
+    }
+}

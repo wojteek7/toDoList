@@ -1,0 +1,11 @@
+.section {
+    display: flow;
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+    display: flow;
+}
+
+.section__header {
+    padding: 10px;
+}
