@@ -24,6 +24,6 @@ W aplikacji zostały użyte podstawowe elementy HTML, takie jak nagłówki, list
 My thrid project made in case of course, project is task list, main functions are written in JS, with CSS styling and I've used grid.
 
 ## screenshot
-![screenshot](screenreadme.jpg)
+(https://github.com/wojteek7/toDoList/assets/135944957/9a888421-0a35-4ee7-8ddb-524b852df0d6)
 
 Basic HTML elements such as headers,list, form. </br> CSS was also applied to enhance the project's aesthetics, and JavaScript was utilized, mainly arrow functions, to ensure the proper functioning of the adding and deleting tasks.
