@@ -17,7 +17,7 @@
 .task__button--remove {
     background-color: red;
     border: none;
-    height: 25px;
+    height: 33px;
 }
 
 .task__button--remove:hover {
@@ -28,7 +28,8 @@
 .task__button--done {
     background-color: #00D26A;
     border: none;
-    height: 25px;
+    height: 33px;
+    width: 33px;
 }
 
 .task__button--done:hover {
